@@ -6,5 +6,7 @@ public class AnotherHelloWorld {
 
         // Added comment
         System.out.println("Hello GitHub!");
+
+        System.out.println("New Feature added");
     }
 }
